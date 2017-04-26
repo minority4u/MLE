@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="WildFly Client">
+    <archive path="/Users/minority/wildfly/bin/client/jboss-client.jar" />
+  </library>
+</eclipse-userlibraries>
+

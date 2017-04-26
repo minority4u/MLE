@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BolzmanMachine" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/BolzmanMachine" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/BolzmanMachine" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/MnistReader.h" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/freeglut_staticd.lib" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/freeglut_staticd.pdb" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/freeglutd.exp" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/freeglutd.lib" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/hwFunctions.h" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/include/GL/freeglut.h" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/include/GL/freeglut_ext.h" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/include/GL/freeglut_std.h" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/include/GL/glut.h" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/letters.h" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/main" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/main.cpp" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/pixelbuffer.layout" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/pixelbuffer.sln" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/pixelbuffer.suo" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/pixelbuffer.vcxproj" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/pixelbuffer.vcxproj.filters" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/pixelbuffer.vcxproj.user" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/train-images-idx3-ubyte" />
+		<Unit filename="../../Downloads/RestrBolzmMachine_Aufgabe6/train-labels-idx1-ubyte" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
