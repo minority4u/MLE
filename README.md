@@ -1,4 +1,4 @@
-# Example implementation of different Machine Learning /Optimizing algorithms
+# Example implementation of different machine learning and optimisation algorithms
 
 Code is written in Java.
 
