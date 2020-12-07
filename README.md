@@ -1,15 +1,14 @@
-# Different Machine Learning /Optimizing algorithms implemented in Java
+# Example implementation of different Machine Learning /Optimizing algorithms
 
-Exercises for the course "MLE" within the informatic bachelor @ HS-Mannheim
+Code is written in Java.
 
 ## content
 
-BolzmanMachine
-EvolutionAlg
-GeneticAlg
-GeneticProg
-HillClimbing
-PingPong_neuronal_net
-RL
-ReinforcementLearning
-RestrictedBolzmann
+- BolzmanMachine
+- EvolutionAlg
+- GeneticAlg
+- GeneticProg
+- HillClimbing
+- PingPong_neuronal_net
+- ReinforcementLearning
+- RestrictedBolzmann
